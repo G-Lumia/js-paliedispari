@@ -1,0 +1,12 @@
+body
+{
+    background: hsla(206, 91%, 66%, 1);
+
+    background: linear-gradient(180deg, hsla(206, 91%, 66%, 1) 0%, hsla(39, 90%, 51%, 1) 100%);
+
+    background: -moz-linear-gradient(180deg, hsla(206, 91%, 66%, 1) 0%, hsla(39, 90%, 51%, 1) 100%);
+
+    background: -webkit-linear-gradient(180deg, hsla(206, 91%, 66%, 1) 0%, hsla(39, 90%, 51%, 1) 100%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#5AB2F7", endColorstr="#F2A311", GradientType=1 );
+}
